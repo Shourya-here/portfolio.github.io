@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #54b5e2;
+    color: #1d1c1c;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 50px;
+  }
+  
+  h1, h2, h3 {
+    color: #67d1e1;
+  }
+  
+  .portfolio-item {
+    margin-bottom: 30px;
+  }
+  
+  .portfolio-item img {
+    width: 300px;
+    height: 200px;
+  }
+  
+  form label, form input, form textarea, form button {
+    display: block;
+    margin-bottom: 10px;
+  }
+  p1{
+    color: #1d1c1c;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 600%;
+  }
+  p2,p3{
+    font-size: large;
+  }
+  .white-background {
+    filter: brightness(100%);
+  }
+  
+  
